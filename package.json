@@ -1,0 +1,17 @@
+{
+  "name": "slingonia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejsp": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build":"ejsp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
